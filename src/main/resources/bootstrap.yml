@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: gateway-ui
-  cloud:
-    config:
-      uri: http://localhost:8888
+  spring:
+    application:
+      name: configclient
+    cloud:
+      config:
+        uri: http://localhost:8888
